@@ -83,7 +83,7 @@ Shows the 6 most underperforming franchises (negative residuals) — i.e., teams
 - mets_ben2 creation :	Prepare similar metrics for all MLB teams
 - grouped2 analysis	: Rank franchises by performance versus Pythagorean expectations
 
-Interpretation :
+###  Conclusion :
 - num_years: All the teams have data from 2004 to 2012, so the value is 9 for each tea
 - total_W:This is the total number of wins for each team during the 9 years.
 - total_L:This represents the total number of losses for each team during the same period.
